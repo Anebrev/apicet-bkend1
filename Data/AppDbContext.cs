@@ -24,7 +24,7 @@ namespace API_CETtst.Data
 
             modelBuilder.Entity<Produto>()
                 .HasData(
-                    new Produto { id = 1, nome = "Caderno", preco = 7.95m, estoque = 10 },
+                    new Produto { id = 1, nome = "Caderno2", preco = 7.95m, estoque = 10 },
                     new Produto { id = 2, nome = "Borracha", preco = 2.45m, estoque = 30 },
                     new Produto { id = 3, nome = "Estojo", preco = 6.25m, estoque = 15 }
                 );
