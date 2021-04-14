@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "urogJOc4OARHLd6wP3N0Tjr9CnqM3W6jSxXJfoszceVs6rENJLwIK2Ybj6wd33Npw/SfVcVoGO4+zMCt5tYXAQ==",
+  "dgSpecHash": "26XsvpK/InrCWkRnxkYOaPv8zhys81zgppRdd5Qrb4E9j9mJDpMdVOJg7nkBVNTVisY7iOUQGQPtMIiEQuHkpg==",
   "success": true,
-  "projectFilePath": "D:\\DEV\\VisualStudio\\Projects\\LOCAL\\API_CETtst\\API_CETtst.csproj",
+  "projectFilePath": "C:\\DEV\\Projetos\\GIT\\API_CETtst\\API_CETtst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BINGO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\BINGO\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

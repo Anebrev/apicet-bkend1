@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEV\\VisualStudio\\Projects\\LOCAL\\API_CETtst\\API_CETtst.csproj": {}
+    "C:\\DEV\\Projetos\\GIT\\API_CETtst\\API_CETtst.csproj": {}
   },
   "projects": {
-    "D:\\DEV\\VisualStudio\\Projects\\LOCAL\\API_CETtst\\API_CETtst.csproj": {
+    "C:\\DEV\\Projetos\\GIT\\API_CETtst\\API_CETtst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\VisualStudio\\Projects\\LOCAL\\API_CETtst\\API_CETtst.csproj",
+        "projectUniqueName": "C:\\DEV\\Projetos\\GIT\\API_CETtst\\API_CETtst.csproj",
         "projectName": "API_CETtst",
-        "projectPath": "D:\\DEV\\VisualStudio\\Projects\\LOCAL\\API_CETtst\\API_CETtst.csproj",
+        "projectPath": "C:\\DEV\\Projetos\\GIT\\API_CETtst\\API_CETtst.csproj",
         "packagesPath": "C:\\Users\\BINGO\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\VisualStudio\\Projects\\LOCAL\\API_CETtst\\obj\\",
+        "outputPath": "C:\\DEV\\Projetos\\GIT\\API_CETtst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BINGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
